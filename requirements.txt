@@ -1,5 +1,5 @@
-pandas
-import os
+pandas == 0.25.2
+os
 regex
 datetime
 timedelta
